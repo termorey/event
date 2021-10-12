@@ -1,0 +1,2 @@
+(this.webpackJsonpevent=this.webpackJsonpevent||[]).push([[6],{35:function(s,e,t){s.exports={cardsList:"event1_cardsList__3mLMf",answersList:"event1_answersList__21KE6"}}}]);
+//# sourceMappingURL=6.cd158739.chunk.js.map
