@@ -1,2 +1,0 @@
-# event
-test script repositiory
