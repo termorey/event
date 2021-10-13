@@ -1,2 +1,0 @@
-(this.webpackJsonpevent=this.webpackJsonpevent||[]).push([[10],{39:function(e,t,a){"use strict";a.r(t),t.default=a.p+"static/media/Frame.6da921ac.png"}}]);
-//# sourceMappingURL=10.dce80dae.chunk.js.map
