@@ -1,2 +1,0 @@
-(this.webpackJsonpevent=this.webpackJsonpevent||[]).push([[4,5],{22:function(t,e,n){"use strict";n.r(e);n(0);var s=n(13),u=n(1);e.default=function(t){return Object(u.jsx)(s.default,{})}}}]);
-//# sourceMappingURL=4.9779770f.chunk.js.map
